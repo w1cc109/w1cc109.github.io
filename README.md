@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 欢迎来到一个神秘绅士的地盘....
 
-You can use the [editor on GitHub](https://github.com/w1cc109/w1cc109.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+干净的人内心是纯净的,犹如平静的湖面。偶尔微风吹起了涟漪,波纹散开走远,尘埃沉入湖底。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+不远在这嘈杂的尘世中醒来,这个世界比看起来的更加肮脏或者美化。小男孩手中的弹弓会打碎哪扇窗,公交车上的成年人会不会给颤颤巍巍的老人让座,
 
-### Markdown
+教堂屋顶的灰鸽子今晚还会不会回到它温暖的巢。这些谁有说的好了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 唠叨一会儿
 
-```markdown
-Syntax highlighted code block
+休息休息一下,一休的口头禅现在成了人们的心愿。真的休息一下也许就来不及了。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/w1cc109/w1cc109.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
